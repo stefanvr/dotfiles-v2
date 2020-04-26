@@ -1,3 +1,6 @@
+#dot config setup
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME' 
+
 #alias standard command
 alias lsh='ls -lhGFr'
 alias lsa='ls -lhaGFr'
